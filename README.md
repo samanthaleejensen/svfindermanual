@@ -15,13 +15,13 @@ I'm starting with the tools whose output is combined by the machine learning met
 
 Tool | Documentation written | Installed on Hoffman2 | Wrapper available | Example runs available | Example output available
 -----|-----------------------|-----------------------|-------------------|------------------------|-------------------------
-[Lumpy](https://github.com/samanthaleejensen/svfindermanual/wiki/Lumpy) | ✓ | ✓ | ✓ | ✓ | ✓ 
-[Breakdancer](https://github.com/samanthaleejensen/svfindermanual/wiki/Breakdancer) | ✗ | ✓ | ✓ | ✓ | ✓
+[LUMPY](https://github.com/samanthaleejensen/svfindermanual/wiki/LUMPY) | ✓ | ✓ | ✓ | ✓ | ✓ 
+[BreakDancer](https://github.com/samanthaleejensen/svfindermanual/wiki/BreakDancer) | ✗ | ✓ | ✓ | ✓ | ✓
 [Genome STRiP](https://github.com/samanthaleejensen/svfindermanual/wiki/Genome-STRiP) | ✗ | ✓ | ✗ | ✗ | ✗
 [CNVnator](https://github.com/samanthaleejensen/svfindermanual/wiki/CNVnator) | ✗ | ✓ | ✓ | ✗ | ✗
-[breakseq](https://github.com/samanthaleejensen/svfindermanual/wiki/breakseq) | ✗ | ✓ | ✗ | ✗ | ✗
-[CN.mops](https://github.com/samanthaleejensen/svfindermanual/wiki/CN.mops) | ✗ | ✓ | ✗ | ✗ | ✗
-[Delly](https://github.com/samanthaleejensen/svfindermanual/wiki/CN.mops) | ✗ | ✓ | ✓ | ✗ | ✗
+[BreakSeq](https://github.com/samanthaleejensen/svfindermanual/wiki/BreakSeq) | ✗ | ✓ | ✗ | ✗ | ✗
+[cn.MOPS](https://github.com/samanthaleejensen/svfindermanual/wiki/cn.MOPS) | ✗ | ✓ | ✗ | ✗ | ✗
+[DELLY](https://github.com/samanthaleejensen/svfindermanual/wiki/DELLY) | ✗ | ✓ | ✓ | ✗ | ✗
 **_[FusorSV](https://github.com/samanthaleejensen/svfindermanual/wiki/FusorSV)_** | **_✗_** | **_✓_** | **_✓_** | **_✗_** | **_✗_**
 
 ### For all explanations, see the [wiki](https://github.com/samanthaleejensen/svfindermanual/wiki).
