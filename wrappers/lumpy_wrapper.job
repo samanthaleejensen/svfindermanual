@@ -1,0 +1,21 @@
+#!/bin/bash
+#$ -V
+#$ -N lumpyexpress
+#$ -cwd
+#$ -l h_rt=10:00:00
+#$ -l h_data=10G
+#$ -j y
+#$ -m ea
+
+. /u/local/Modules/default/init/modules.sh
+module load python/2.7
+module load samtools/1.2
+
+BAM_PATH=$1
+BAM_NAME=$2
+OUTPUT_LOCATION=$3
+
+mkdir -p $OUTPUT_LOCATION
+
+lumpyexpress -B $BAM_PATH -o $OUTPUT_LOCATION/${BAM_NAME}.vcf -P -v
+
