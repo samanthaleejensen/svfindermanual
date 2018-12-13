@@ -1,5 +1,5 @@
 # svfindermanual 
-## A guide to installing, using, and interpreting structural variant discovery tools
+### A guide to installing, using, and interpreting structural variant discovery tools
 <p>
 <img src=https://media.nature.com/m685/nature-assets/nmeth/journal/v9/n2/images/nmeth.1858-F1.jpg alt="structural variants" width=300 align="right">
 Structural variants are genetic mutations that occur at more than one nucleotide (which would be a SNP, see https://ghr.nlm.nih.gov/primer/genomicresearch/snp). They include deletions, insertions, duplications, copy number variants (CNVs), inversions, translocations, and large chromosomal rearrangements. Definitions may vary as some geneticists define a true structural variant as a mutation affecting from 1 kilobase to 3 megabases, which is the general range the tools described herein affect.
