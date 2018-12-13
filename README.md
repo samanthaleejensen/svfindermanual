@@ -22,7 +22,7 @@ Tool | Documentation written | Installed on Hoffman2 | Wrapper available | Examp
 [breakseq](https://github.com/samanthaleejensen/svfindermanual/wiki/breakseq) | ✗ | ✓ | ✗ | ✗ | ✗
 [CN.mops](https://github.com/samanthaleejensen/svfindermanual/wiki/CN.mops) | ✗ | ✓ | ✗ | ✗ | ✗
 [Delly](https://github.com/samanthaleejensen/svfindermanual/wiki/CN.mops) | ✗ | ✓ | ✓ | ✗ | ✗
-**_[FusorSV](https://github.com/samanthaleejensen/svfindermanual/wiki/FusorSV)_** | **_✗_** | **_✓_** | **_✗_** | **_✗_** | **_✗_**
+**_[FusorSV](https://github.com/samanthaleejensen/svfindermanual/wiki/FusorSV)_** | **_✗_** | **_✓_** | **_✓_** | **_✗_** | **_✗_**
 
 ### For all explanations, see the [wiki](https://github.com/samanthaleejensen/svfindermanual/wiki).
 
